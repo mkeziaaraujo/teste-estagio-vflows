@@ -1,0 +1,12 @@
+:root {
+  --bs-success: #000;
+}
+
+body {
+  overflow: auto;
+}
+
+.btn-success {
+  background: #019e10 !important;
+  border-color: #019e10 !important;
+}
